@@ -1,1 +1,1 @@
-plot(1:10, col="black1")
+plot(1:10, col="black")
